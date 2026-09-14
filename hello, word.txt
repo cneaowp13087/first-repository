@@ -1,5 +1,7 @@
 def print_hello():
       print("hello, word")
+      print("집 가고 싶다")
 
 if_name_=='_main_'
-      print_hello()
+      print_test()
+      print_qwerty()
